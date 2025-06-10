@@ -2,5 +2,5 @@ https://nbviewer.org/github/EladBenjo/Data-Science-Workshop-2025a/blob/main/FOMC
 
 
 TODO:
-Redesign web-scraping from jupyter file into modular py files
+Redesign web-scraping from jupyter file into modular py files /n
 Write Readme file properly :)
