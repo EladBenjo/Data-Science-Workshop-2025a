@@ -3,4 +3,6 @@ https://nbviewer.org/github/EladBenjo/Data-Science-Workshop-2025a/blob/main/FOMC
 
 TODO:  
 Redesign web-scraping from jupyter file into modular py files  
-write a readme file
+write a readme file  
+move all repeating functions out to py files  
+treat stationary for EXPINF1YR by log-diff  
